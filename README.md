@@ -1,39 +1,39 @@
-<h1 align="center">¡Hola, soy Esteban Cajina!</h1>
+<h1 align="center">Hi there, I'm Esteban Cajina!</h1>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" alt="Developer icon" width="24"/>
-  Ingeniero de Software en formación | 
+  Software Engineer in training | 
   <img src="https://cdn-icons-png.flaticon.com/512/2972/2972555.png" alt="Learning icon" width="24"/>
-  Apasionado por la tecnología y el aprendizaje constante |
+  Passionate about technology and lifelong learning |
   <img src="https://cdn-icons-png.flaticon.com/512/3652/3652191.png" alt="Opportunity icon" width="24"/>
-  En busca de nuevas oportunidades
+  Open to new opportunities
 </p>
 
 ---
 
-<h2><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="24"/> Sobre mí</h2>
+<h2><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="24"/> About Me</h2>
 
 <ul>
-  <li><strong>🎓 Formación:</strong> Estudiante de último año de la carrera de Informática Empresarial en la Universidad de Costa Rica.</li>
-  <li><strong>🚀 Objetivo:</strong> Actualmente en búsqueda de una pasantía o experiencia profesional en desarrollo de software.</li>
-  <li><strong>📚 Aprendizaje:</strong> En proceso de aprendizaje continuo en Kubernetes.</li>
-  <li><strong>🌎 Origen:</strong> Nacido y criado en Costa Rica.</li>
-  <li><strong>🤝 Intereses:</strong> Me gusta trabajar en equipo y tengo un fuerte enfoque en el desarrollo front-end.</li>
+  <li><strong>🎓 Education:</strong> Final-year student in Business Informatics at the University of Costa Rica.</li>
+  <li><strong>🚀 Goal:</strong> Currently seeking an internship or entry-level role in software development.</li>
+  <li><strong>📚 Learning:</strong> Continuously improving my skills in Kubernetes.</li>
+  <li><strong>🌎 Origin:</strong> Born and raised in Costa Rica.</li>
+  <li><strong>🤝 Interests:</strong> I enjoy team collaboration and have a strong focus on full stack development.</li>
 </ul>
 
 ---
 
-## ⚙️ Conocimientos y habilidades técnicas
+## ⚙️ Technical Skills
 
-### Lenguajes y Frameworks
+### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,py,html,css,react,nodejs,express,dotnet,jquery,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nodejs,express,spring,dotnet,jquery,fastapi,docker" />
 </p>
 
 ---
 
-### Bases de Datos
+### Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
@@ -41,15 +41,19 @@
 
 ---
 
-### Herramientas y Entornos
+### Tools & Environments
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,visualstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" alt="Playwright" />
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="40" alt="Cypress" />
 </p>
+
 
 ---
 
-## 📫 ¡Conectemos!
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:estebancajinag@gmail.com">
@@ -65,8 +69,6 @@
 
 ---
 
-## 📊 Lenguajes más usados
+## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanCajina&layout=compact&theme=dark&langs_count=8)
-
-
