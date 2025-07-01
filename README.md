@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Esteban Cajina!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E4594F&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Esteban+Cajina." />
+</p>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" alt="Developer icon" width="24"/>
@@ -28,7 +30,7 @@
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nodejs,express,spring,dotnet,jquery,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,html,css,react,nodejs,express,nest,spring,dotnet,jquery,fastapi,vue" />
 </p>
 
 ---
@@ -44,15 +46,22 @@
 ### Tools & Environments
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,visualstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" alt="Playwright" />
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="40" alt="Cypress" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman,vscode,visualstudio,docker,selenium,jest" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" alt="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" alt="Cypress" />
 </p>
+
 
 
 ---
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EstebanCajina&theme=github_dark" alt="Most used languages chart" />
+</p>
+
+---
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -67,8 +76,13 @@
   </a>
 </p>
 
----
 
-## 📊 Most Used Languages
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E4594F&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!." />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanCajina&layout=compact&theme=dark&langs_count=8)
+
+
+
+
+
